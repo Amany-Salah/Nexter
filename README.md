@@ -1,4 +1,8 @@
 # Nexter
 landing page for a company that sells luxury homes.
-# To run the project 
-use command line npm install
+
+# To run project:
+- Run your cmd in the project path
+- Install node-modules: npm install
+- Use live-server: live-server
+
